@@ -1,0 +1,7 @@
+import classCat
+
+cat1 = Cat("Барон","2", "мальчик")
+cat2 = Cat ("Сэм","2","мальчик")
+
+print("cat1:",cat1.name, cat1.age, cat1.gender)
+print("cat2:",cat2.name, cat2.age, cat2.gender)
